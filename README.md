@@ -1,2 +1,0 @@
-# Experiment
-Connection with Eclipse
